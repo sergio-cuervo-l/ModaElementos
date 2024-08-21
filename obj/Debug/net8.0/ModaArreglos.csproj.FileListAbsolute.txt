@@ -1,0 +1,14 @@
+D:\Para Trabajar\RetosMoure\ModaArreglos\bin\Debug\net8.0\ModaArreglos.exe
+D:\Para Trabajar\RetosMoure\ModaArreglos\bin\Debug\net8.0\ModaArreglos.deps.json
+D:\Para Trabajar\RetosMoure\ModaArreglos\bin\Debug\net8.0\ModaArreglos.runtimeconfig.json
+D:\Para Trabajar\RetosMoure\ModaArreglos\bin\Debug\net8.0\ModaArreglos.dll
+D:\Para Trabajar\RetosMoure\ModaArreglos\bin\Debug\net8.0\ModaArreglos.pdb
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.AssemblyInfoInputs.cache
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.AssemblyInfo.cs
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.csproj.CoreCompileInputs.cache
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.dll
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\refint\ModaArreglos.dll
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.pdb
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ModaArreglos.genruntimeconfig.cache
+D:\Para Trabajar\RetosMoure\ModaArreglos\obj\Debug\net8.0\ref\ModaArreglos.dll
